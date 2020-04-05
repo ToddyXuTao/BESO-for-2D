@@ -17,6 +17,13 @@ All the necessary parameters can be modified in 1172-1250 lines.
 - Numpy solver (Slow, unefficient but formidable)
 - Cvxopt solver (Recommended)
 
+## Necessary packages
+- NumPy
+- Matplotlib
+- Scipy
+- Numpy
+- CVXOPT
+
 ## References
 - Huang, X. and Xie, M., 2010. Evolutionary topology optimization of continuum structures: methods and applications. John Wiley & Sons.
 - https://github.com/williamhunter/topy
