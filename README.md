@@ -17,7 +17,7 @@ All the necessary parameters can be modified in 1172-1250 lines.
 - Numpy solver (Slow, unefficient but formidable)
 - Cvxopt solver (Recommended)
 
-## Necessary packages
+## Necessary Packages
 - NumPy
 - Matplotlib
 - Scipy
