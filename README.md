@@ -1,6 +1,6 @@
 # BESO for 2D
 A basic topological optimization program using soft-kill BESO technique.
-![image](https://github.com/ToddyXuTao/BESO-for-2D/blob/master/Examples/Long_Cantilever_Hires_Topology.png)
+![image](https://github.com/ToddyXuTao/BESO-for-2D/blob/master/Examples/Introduction.png)
 ![image](https://github.com/ToddyXuTao/BESO-for-2D/blob/master/Examples/Long_Cantilever_Hires_History.png)
 
 ## Introduction
