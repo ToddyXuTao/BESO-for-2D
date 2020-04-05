@@ -3,7 +3,7 @@ A basic topology optimization program using soft-kill BESO technique.
 <img src="https://github.com/ToddyXuTao/BESO-for-2D/blob/master/Examples/Introduction.png" width="500">
 
 ## Introduction
-The program was initially written in Jupyter-lab and emerged to a single .py file.
+The program was initially written in Jupyter-lab and merged to a single .py file.
 All the necessary parameters can be modified in 1172-1250 lines.
 
 ### Predefined Load Conditions
