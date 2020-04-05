@@ -1,7 +1,6 @@
 # BESO for 2D
 A basic topological optimization program using soft-kill BESO technique.
-<img src="https://github.com/ToddyXuTao/BESO-for-2D/blob/master/Examples/Introduction.png">
-<img src="https://github.com/ToddyXuTao/BESO-for-2D/blob/master/Examples/Long_Cantilever_Hires_History.png">
+<img src="https://github.com/ToddyXuTao/BESO-for-2D/blob/master/Examples/Introduction.png" width="500">
 
 ## Introduction
 The program was initially written in Jupyter-lab and emerged to a single .py file.
