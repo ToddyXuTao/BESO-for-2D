@@ -852,7 +852,6 @@ class BESO2D(object):
         
         # Start ith iteration
         while self.change > 0.0001:
-            
             load = self.load
             vol = max(vol*(1-er), volfrac)
             change = self.change
@@ -1172,6 +1171,7 @@ class BESO2D(object):
 if __name__ == "__main__":
     """
     This is the main program, all necessary parameters are defined here.
+    
     Parameters
     ----------
     E : float
