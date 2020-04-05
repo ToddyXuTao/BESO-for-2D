@@ -1,5 +1,5 @@
 # BESO for 2D
-A basic topological optimization program using soft-kill BESO technique.
+A basic topology optimization program using soft-kill BESO technique.
 <img src="https://github.com/ToddyXuTao/BESO-for-2D/blob/master/Examples/Introduction.png" width="500">
 
 ## Introduction
